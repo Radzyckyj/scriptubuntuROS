@@ -52,7 +52,7 @@ sudo -H pip install pandas jinja2
 pip install pyserial
 # optional python tools
 pip install pyulog
-
+# jMAVSim simulator
 sudo apt-get install ant openjdk-8-jdk openjdk-8-jre -y
 
 
