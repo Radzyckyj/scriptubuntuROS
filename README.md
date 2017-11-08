@@ -15,4 +15,4 @@ Download the desired script
 
 Run the script in a bash shell (e.g. to run ubuntu_sim.sh):
 
-  $ source ubuntu_skyrats_script.sh
+  $ source ubuntu_skyrats.sh
