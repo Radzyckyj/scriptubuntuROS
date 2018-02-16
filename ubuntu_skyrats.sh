@@ -49,9 +49,9 @@ sudo apt-get install python-argparse git git-core wget zip python-empy qtcreator
 sudo apt-get install python-dev -y
 sudo apt-get install python-pip -y
 sudo -H pip install pandas jinja2
-pip install pyserial
+sudo pip install pyserial
 # optional python tools
-pip install pyulog
+sudo pip install pyulog
 # jMAVSim simulator
 sudo apt-get install ant openjdk-8-jdk openjdk-8-jre -y
 
