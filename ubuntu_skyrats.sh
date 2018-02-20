@@ -49,7 +49,7 @@ sudo apt-get install python-argparse git git-core wget zip python-empy qtcreator
 sudo apt-get install python-dev -y
 sudo apt-get install python-pip -y
 sudo -H pip install pandas jinja2
-sudo pip install pyserial
+sudo pip install pyserial toml
 # optional python tools
 sudo pip install pyulog
 # jMAVSim simulator
