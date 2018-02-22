@@ -133,6 +133,7 @@ source ~/.bashrc
 sudo apt-get install python-rosinstall -y
 
 # MAVROS: https://dev.px4.io/en/ros/mavros_installation.html
+sudo apt-get install ros-kinetic-mavros ros-kinetic-mavros-extras
 ## Create catkin workspace
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws
